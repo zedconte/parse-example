@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Dream Exchange": {
+            "applicationId": "03tJqGCtrsiSdMzqKUazXgTrbwNdyERQpwzGdD6v", 
+            "masterKey": "OzU3HVZW9hbeDIdmGfuZDmLgVl4V2xXTQ2M8Lk6B"
+        }, 
+        "_default": {
+            "link": "Dream Exchange"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
